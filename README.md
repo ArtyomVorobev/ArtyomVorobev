@@ -13,5 +13,5 @@ I'm an ML Engineer with 5+ years of commercial development and research. Worked 
 ## My LinkedIn: 
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/artemvorobev/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn"></a>
 </p>
